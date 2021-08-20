@@ -4,3 +4,4 @@ Rencana Konten BreakIT
 - Javascript DOM
 - Design UI/UX WEB
 - react JS
+- struktur data dasar
