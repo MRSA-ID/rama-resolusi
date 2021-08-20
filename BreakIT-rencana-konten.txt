@@ -4,9 +4,9 @@ Rencana Konten BreakIT
 - Javascript DOM
 - Design UI/UX WEB
 - react JS
+- struktur data dasar
 - framework javascript
-  ^ Angular
-  ^ react
+  ^ vue
 - PHP Frameworks
   ^ Laravel
 - python
