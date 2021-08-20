@@ -1,0 +1,6 @@
+Rencana Konten BreakIT
+
+- Javascript dasar
+- Javascript DOM
+- Design UI/UX WEB
+- react JS
