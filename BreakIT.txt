@@ -3,3 +3,7 @@ BreakIT Resolusi:
 - belajar
 - design microblog
 - membuat forum
+- fullstack javascript bwa
+- fullstack developer bwa
+- front-end react
+- belajar react
